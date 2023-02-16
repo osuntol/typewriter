@@ -1,6 +1,6 @@
 const sentence = 'Hello there from lighthouse labs'
 
-typeWriter = (sentence) => {
+typeWriter = (string) => {
   let zero = 0
   for (const letter of sentence){
 
